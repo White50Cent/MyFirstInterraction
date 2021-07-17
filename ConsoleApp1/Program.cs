@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello Adi");
 
+            Console.WriteLine("Here is my first branch");
+
             Console.ReadKey();
         }
     }
